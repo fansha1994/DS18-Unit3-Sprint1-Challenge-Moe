@@ -289,6 +289,13 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+
+# when you review a code you learn something new, and you can fix your problems too
+# when you look at other codes, you get new ideas
+
+# containers can hold alot defferent of packages, which can help to orgnize all the different codes
+# and libraries  
+
 ### Part 8 - Turn it in!
 
 Provide all the files you wrote (`acme.py`, `acme_report.py`, and
