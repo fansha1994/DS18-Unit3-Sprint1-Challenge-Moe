@@ -290,11 +290,12 @@ career here, you'll have to answer the following:
 Answer both of these questions (baseline ~5 sentences) here in text.
 
 
-# when you review a code you learn something new, and you can fix your problems too
-# when you look at other codes, you get new ideas
+### when you review a code you learn something new, and you can fix your problems too
+### when you look at other codes, you get new ideas
 
-# containers can hold alot defferent of packages, which can help to orgnize all the different codes
-# and libraries  
+### containers can hold alot defferent of packages, which can help to orgnize all the different codes
+### and libraries. it can help programmers to work in a different copmuters, and by using containers 
+### the software will not run differently if you work in the same envairment 
 
 ### Part 8 - Turn it in!
 
